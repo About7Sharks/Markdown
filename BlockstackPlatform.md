@@ -16,4 +16,4 @@ summary: Blockstack makes it easy for people to access and utilize the powerful 
 
 Proof of Transfer is a proposed design that uses Bitcoin’s Proof of Work (PoW) to launch new blockchains that are anchored in Bitcoin’s security
 
-Work with a open-source reference implementation of a PoX blockchain anchored to Bitcoin
+Works with a open-source reference implementation of a PoX blockchain anchored to Bitcoin. I like this approach because it does what bitcoin doesn't do, while contributing to bitcoin itself. 
