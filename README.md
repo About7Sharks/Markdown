@@ -1,5 +1,5 @@
 ---
-title: How this Blog Works
+title: README
 date: 2020-5-12
 author: Zachary Carlin
 location: Tampa FL
