@@ -8,6 +8,10 @@ summary: IPFS, Blockchain, and Git
 ---
 
 # This blog is awesome
+
 It fetches markdown posts I host [here](https://github.com/About7Sharks/Markdown)
 
-By unitizing IPFS it uncensorable
+It's being hosted through the power of Cryptography and Decentralized technologies like the [IPFS](https://ipfs.io/) and 
+[Ethereum Name Service](https://ens.domains/)
+
+Did I menton it's made by yours truly 😘

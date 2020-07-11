@@ -3,12 +3,15 @@ title: Tech Uses
 date: 2020-5-12
 author: Zachary Carlin
 location: Tampa FL
-image: https://cdn.pixabay.com/photo/2020/01/28/17/08/studio-4800295_1280.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/e/e8/Retrocomputer_02.jpg
 summary: As a Software Engineer i'm constantly tweaking and playing around with the technologies I use. Here's the current things I use almost daily 😘
+tags: ["Tech", "Personal"]
 ---
-# Tech Uses
 
-As a Software Engineer i'm constantly tweaking and playing around with the technologies I use. Here's the current things I use almost daily 😘
+# Tech Uses
+As a Software Engineer i'm constantly tweaking and playing around with the technologies I use.
+ 
+Here is a list of the current things I use almost daily 😘
 
 ## Hardware 🧰
 -  **IPhone11**📱
@@ -32,7 +35,7 @@ As a Software Engineer i'm constantly tweaking and playing around with the techn
 
   
 
-## Code Editors
+## Editors
 
 -  **[VSCode](https://code.visualstudio.com/)**: Free. Built on open source. Runs everywhere. Highly [configurable](https://howivscode.com/About7Sharks) library 🔌
 
@@ -45,23 +48,50 @@ As a Software Engineer i'm constantly tweaking and playing around with the techn
   
 ## Software
 
+***Crypto***
+
 -  **[MetaMask](https://metamask.io/)**: A crypto wallet & gateway to blockchain apps
- 
+
 -  **[Coinbase](http://coinbase.com)**: a secure platform that makes it easy to buy, sell, and store cryptocurrency💰
 
 -  **[Bitwarden]([https://bitwarden.com/)**: Open source password manager 🗝️
 
 -  **[Cryptomator](https://cryptomator.org/)**: encrypts your data quickly and easily
 
+
+***Browsers***
+
 -  **[Firefox](https://www.mozilla.org/en-US/)**: open-source web browser developed by the Mozilla Foundation
 
 -  **[Brave](https://brave.com)**: open-source web browser that allows you to earn rewards by opting into ads
 
 -  **[Safari](https://www.apple.com/safari/)**: Apple's Browser thats I use when debugging mobile sites and general use between my apple devices. Also nice for added PWA directly to your home screen
+
   
+
+  
+
+***Misc***
+
+  
+
 -  **[Barrier](https://github.com/debauchee/barrier)**: Allows for me to sit at my desk and use one keyboard to control all my computers (Linux, Mac & Windows 🤯)
 
 -  **[PIA](https://www.privateinternetaccess.com/)**: VPN available on all devices
 
+  
 
+## Social Media
+
+  
+
+-  **[Instagram](https://www.instagram.com/zachary_carlin/)**: I mainly post travel photos, and random things I enjoy irl 🏞️
+
+-  **[Github](https://github.com/About7Sharks)**: My favorite place to host my code 👨‍💻
+
+-  **[Linkedin](https://www.linkedin.com/in/zachary-carlin-85402a123/)**: le professional platfrom 🤖
+
+-  **[Snapchat](https://www.snapchat.com/add/cisco_inman)**: main way of chatting
+
+ 
 > Inspired by Wes Bos's [uses.tech](https://uses.tech/)
