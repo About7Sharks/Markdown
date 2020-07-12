@@ -15,7 +15,9 @@ Here is a list of the current things I use almost daily 😘
 
 ## Hardware 🧰
 
--  **IPhone11**📱
+-  **IPhone11** 📱
+    - 256 GB
+    - Wallet [Case](https://www.amazon.com/gp/product/B07VN5HSLN/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 -  **MacBook Pro** 💻 (13-inch, 2017) my daily driver
     - macOS Catalina
     - 8GB RAM, 256GB SSD
