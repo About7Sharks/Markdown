@@ -21,19 +21,19 @@ Here is a list of the current things I use almost daily 😘
 
 - **MacBook Pro**: (13-inch, 2017) my daily laptop
     - macOS Catalina
-    - 8GB Ram, 256GB SSD
+    - 8GB RAM, 256GB SSD
     - Intel Iris Plus Graphics 640 1536 MB
 
 - **Custom Desktop**: used as a Home Server/VR Rig
     - Windows 10
     - NVIDIA GeForce GTX 970
-    - 32GB Ram, 2TB HDD
+    - 32GB RAM, 2TB HDD
     - Intel Core i5-6500 @ 3.2GHz
     - VR Headset (HTC Vive)
 
-- **Acer Laptop**: used for pentesting and linux flavors
+- **Acer Laptop**: used for pentesting and linux isos
+    - 8GB RAM, 1TB HDD
     - Kali Linux/Ubuntu
-    - 8GB Ram, 1TB HDD
     
 - **Fitbit Versa**: Smart watch
     - Tracks calories
@@ -41,7 +41,7 @@ Here is a list of the current things I use almost daily 😘
     - Alarm clock
 
 - **Surface Pro**: Used for drawing and reading
-    - 8 GB Ram, 256 SSD
+    - 8 GB RAM, 256 SSD
     - Avedio active stylus
 
   
@@ -64,7 +64,7 @@ Here is a list of the current things I use almost daily 😘
 
 -  **[Coinbase](http://coinbase.com)**: a secure platform that makes it easy to buy, sell, and store cryptocurrency💰
 
--  **[Bitwarden]([https://bitwarden.com/)**: Open source password manager 🗝️
+-  **[Bitwarden](https://bitwarden.com/)**: Open source password manager 🗝️
 
 -  **[Cryptomator](https://cryptomator.org/)**: encrypts your data quickly and easily
 
@@ -95,7 +95,7 @@ Here is a list of the current things I use almost daily 😘
 
   
 
--  **[Instagram](https://www.instagram.com/zachary_carlin/)**: I mainly post travel photos, and random things I enjoy irl 🏞️
+-  **[InstagRAM](https://www.instagRAM.com/zachary_carlin/)**: I mainly post travel photos, and random things I enjoy irl 🏞️
 
 -  **[Github](https://github.com/About7Sharks)**: My favorite place to host my code 👨‍💻
 
