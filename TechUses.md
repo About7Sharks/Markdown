@@ -34,6 +34,7 @@ Here is a list of the current things I use almost daily 😘
 - **Acer Laptop**: used for pentesting and linux isos
     - 8GB RAM, 1TB HDD
     - Kali Linux/Ubuntu
+    - What I used to leaned to code with
     
 - **Fitbit Versa**: Smart watch
     - Tracks calories
