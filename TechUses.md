@@ -31,14 +31,14 @@ Here is a list of the current things I use almost daily 😘
 -  **Acer Laptop** 🐱‍💻 used for pentesting and linux flavors
     - Kali Linux/Ubuntu
     - 8GB RAM, 1TB HDD
-    
+
 -  **Fitbit Versa** ⌚ Smart watch that I use for calorie counting, heart rate monitor, sleep tracking, and my alarm clock
 
--  **Surface Pro** used for drawing and reading
+<!-- -  **Surface Pro** used for drawing and reading
     - 8 GB Ram, 256 SSD
     - Avedio Active Stylus
 
-  
+   -->
 ## Editors
 
 -  **[VSCode](https://code.visualstudio.com/)**: Free. Built on open source. Runs everywhere. Highly [configurable](https://howivscode.com/About7Sharks) library 🔌
