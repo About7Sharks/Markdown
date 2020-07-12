@@ -25,11 +25,11 @@ Here is a list of the current things I use almost daily 😘
     - 32GB RAM, 2TB HDD
     - Intel Core i5-6500 @ 3.2GHz
     - VR Headset (HTC Vive)
--  **Acer Laptop**🐱‍💻 used for pentesting and linux flavors
+-  **Acer Laptop** 🐱‍💻 used for pentesting and linux flavors
     - Kali Linux/Ubuntu
     - 8GB RAM, 1TB HDD
--  **Surface Pro** used for drawing and reading
 -  **Fitbit Versa** ⌚Smart watch that I use for calorie counting, heart rate monitor, sleep tracking, and my alarm clock
+-  **Surface Pro** used for drawing and reading
 
   
 
