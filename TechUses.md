@@ -14,6 +14,7 @@ As a Software Engineer i'm constantly tweaking and playing around with the techn
 Here is a list of the current things I use almost daily 😘
 
 ## Hardware 🧰
+
 -  **IPhone11**📱
 -  **MacBook Pro** 💻 (13-inch, 2017) my daily driver
     - macOS Catalina
@@ -30,7 +31,8 @@ Here is a list of the current things I use almost daily 😘
     - 8GB RAM, 1TB HDD
 -  **Fitbit Versa** ⌚Smart watch that I use for calorie counting, heart rate monitor, sleep tracking, and my alarm clock
 -  **Surface Pro** used for drawing and reading
-
+    - 8 GB Ram, 256 SSD
+    - Avedio Active Stylus
   
 
   
