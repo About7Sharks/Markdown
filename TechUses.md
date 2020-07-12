@@ -15,22 +15,26 @@ Here is a list of the current things I use almost daily 😘
 
 ## Hardware 🧰
 
-- **IPhone11**📱
-- **MacBook Pro** 💻 (13-inch, 2017) my daily driver
+-  **IPhone11**📱
+-  **MacBook Pro** 💻 (13-inch, 2017) my daily driver
     - macOS Catalina
     - 8GB RAM, 256GB SSD
     - Intel Iris Plus Graphics 640 1536 MB
-- **Custom Desktop** 🖥️ used as a Home Server/VR Rig
+
+-  **Custom Desktop** 🖥️ used as a Home Server/VR Rig
     - Windows 10
     - NVIDIA GeForce GTX 970
     - 32GB RAM, 2TB HDD
     - Intel Core i5-6500 @ 3.2GHz
     - VR Headset (HTC Vive)
-- **Acer Laptop** 🐱‍💻 used for pentesting and linux flavors
+
+-  **Acer Laptop** 🐱‍💻 used for pentesting and linux flavors
     - Kali Linux/Ubuntu
     - 8GB RAM, 1TB HDD
-- **Fitbit Versa** ⌚ Smart watch that I use for calorie counting, heart rate monitor, sleep tracking, and my alarm clock
-- **Surface Pro** used for drawing and reading
+    
+-  **Fitbit Versa** ⌚ Smart watch that I use for calorie counting, heart rate monitor, sleep tracking, and my alarm clock
+
+-  **Surface Pro** used for drawing and reading
     - 8 GB Ram, 256 SSD
     - Avedio Active Stylus
 
