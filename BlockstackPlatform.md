@@ -20,7 +20,7 @@ Works with a open-source reference implementation of a PoX blockchain anchored t
 
 
 ## How is this different from ETH
-The guys over at Blockstack have an [AMA]((https://forum.blockstack.org/t/what-is-the-difference-between-blockstack-and-ethereum/781) where they go in depth on the subject. The main takeaways to note are 
+The guys over at Blockstack have an [AMA](https://forum.blockstack.org/t/what-is-the-difference-between-blockstack-and-ethereum/781) where they go in depth on the subject. The main takeaways to note are 
 > Blockstack’s programming model is based on running off-chain programs. These programs can be written and debugged in any language you want. By contrast, Ethereum’s programming model is based on running on-chain “smart contracts.” These are written and debugged with a whole new set of tools, like Solidity and Serpent.
 > You can think of Ethereum as a “heavy” blockchain that does everything for you. All the complexity is handled there, computations run there, and all scalability and security issues need to be handled at the blockchain layer. Blockstack puts minimal logic into a blockchain and handles scalability outside of the blockchain by re-using existing internet infrastructure in new ways.
 
