@@ -21,19 +21,19 @@ Here is a list of the current things I use almost daily 😘
 
 - **MacBook Pro**: (13-inch, 2017) my daily laptop
     - macOS Catalina
-    - 8GB RAM, 256GB SSD
+    - 8GB Ram, 256GB SSD
     - Intel Iris Plus Graphics 640 1536 MB
 
 - **Custom Desktop**: used as a Home Server/VR Rig
     - Windows 10
     - NVIDIA GeForce GTX 970
-    - 32GB RAM, 2TB HDD
+    - 32GB Ram, 2TB HDD
     - Intel Core i5-6500 @ 3.2GHz
     - VR Headset (HTC Vive)
 
 - **Acer Laptop**: used for pentesting and linux flavors
     - Kali Linux/Ubuntu
-    - 8GB RAM, 1TB HDD
+    - 8GB Ram, 1TB HDD
     
 - **Fitbit Versa**: Smart watch
     - Tracks calories
