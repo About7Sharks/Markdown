@@ -96,7 +96,7 @@ Here is a list of the current things I use almost daily 😘
 
   
 
--  **[InstagRAM](https://www.instagRAM.com/zachary_carlin/)**: I mainly post travel photos, and random things I enjoy irl 🏞️
+-  **[Instagram](https://www.instagRAM.com/zachary_carlin/)**: I mainly post travel photos, and random things I enjoy irl 🏞️
 
 -  **[Github](https://github.com/About7Sharks)**: My favorite place to host my code 👨‍💻
 
