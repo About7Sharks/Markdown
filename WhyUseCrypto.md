@@ -1,5 +1,5 @@
 ---
-title: Why use Crypto
+title: Why Use Crypto
 date: 2020-7-19
 author: Zachary Carlin
 location: Tampa FL
