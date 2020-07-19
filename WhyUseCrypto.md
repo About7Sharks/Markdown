@@ -8,7 +8,7 @@ summary: You've probably heard of bitcoin and cryptocurrencies by now. You may s
 tags: ["Bitcoin", "Crypto","Tech"]
 ---
 
-## Why use Crypto?
+## Why Use Crypto?
 You've probably heard of bitcoin and cryptocurrencies by now. You may still be asking yourself why care? If you don't inherently see the use of this, it's okay, you're privileged and probably have access to a quality financial institutions. 
 
 According to a recent study done by [The World Bank](https://globalfindex.worldbank.org/) close to one-third of adults – 1.7 billion – are still unbanked,
