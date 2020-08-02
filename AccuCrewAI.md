@@ -22,8 +22,9 @@ To interact with AccuCrew simply text <a href="tel:+1-334-402-4980">+1-334-402-4
 
 ## Avaliable Commands
 Due to AccuCrew's Natural Language Processor commands don't need to be exact, they just need to be close enough.
-| Task | Trigger | Response |\n
-| :------------- | :--------- | :----------- |\n
+
+| Task | Trigger | Response |
+| :------------- | :--------- | :----------- |
 |  welcome_message | "Hey"   |  "Hi, how can I help you today?"|
 | get_last_reading  | "Get Probe Reading" | "Sure, I can help you get your last reading. What's the name of the probe?" |
 | start_probe |"Start my Probe"  | Sure, I can help you stop your probe. What's the name of the probe?|
