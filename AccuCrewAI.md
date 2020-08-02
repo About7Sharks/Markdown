@@ -17,7 +17,7 @@ To interact with AccuCrew simply text <a href="tel:+1-334-402-4980">+1-334-402-4
 
 
 
-![AccuCrew](https://accubrew.io/accubud.jpeg)
+![AccuCrew](https://accubrew.io/accuBud.jpeg)
 
 
 ## Avaliable Commands
