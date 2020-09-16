@@ -12,7 +12,7 @@ summary: AccuCrew is an Artificial Intelligence companion designed to help you m
 ## What is AccuCrew?
 AccuCrew is an extremely capable AI aimed towards helping brewers with a variety of tasks. Thanks to the help of some recent advancements in natural language processing, AccuCrew is able to interpret incoming messages and respond to you instantly. Enabling you to connect to your brewery wherever and whenever.
 
-## How do you use AccuCrew?
+## How do you use AccuCrew? 
 To interact with AccuCrew simply text +1-334-402-4980 like you would text a normal person. 
 
 
