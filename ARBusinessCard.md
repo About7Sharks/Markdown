@@ -1,3 +1,13 @@
+---
+title: AR Business Card
+date: 2020-9-16
+author: Zachary Carlin
+location: Tampa FL
+image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.s-nbcnews.com%2Fj%2Fnewscms%2F2017_37%2F2152646%2F170912-augmented-reality-mn-1555_ef744fbb489d79f4a3668d5b7560dd5b.fit-760w.jpg&f=1&nofb=1
+summary: Viro Augmented reality business card
+---
+
+
 ![GIF](https://imgur.com/jujybPg.gif)
 I recently found [ViroReact](https://viromedia.com/viroreact/) 
 > ViroReact is an open source developer platform for rapidly building AR/VR applications using React Native. Use a single code base for your AR and VR apps
