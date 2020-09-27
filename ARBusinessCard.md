@@ -8,6 +8,8 @@ summary: Viro Augmented reality business card
 ---
 
 
+# AR Business Card
+
 ![GIF](https://imgur.com/jujybPg.gif)
 I recently found [ViroReact](https://viromedia.com/viroreact/) 
 > ViroReact is an open source developer platform for rapidly building AR/VR applications using React Native. Use a single code base for your AR and VR apps
