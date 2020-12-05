@@ -5,6 +5,7 @@ author: Zachary Carlin
 location: Tampa FL
 image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbitexpert.io%2Fwp-content%2Fuploads%2F2019%2F10%2F1Ethereum-Name-Service.jpg
 summary: Making Ethereum easier to use is the main key for mass adoption of cryptocurrencies and blockchain technology.
+tags: ["Blockchain"] 
 ---
 
 ## Ever come across a weird string that looks like this?

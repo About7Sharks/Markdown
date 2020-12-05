@@ -5,12 +5,13 @@ author: Zachary Carlin
 location: Tampa FL
 image: https://raw.githubusercontent.com/About7Sharks/meerkat/Main/src/logo.svg 
 summary: A set of tools that will help you decode and map network packets
+tags: ["Node","React","Express","Javascript","Pentest"]
 ---
 
 # Meerkat
 You can find the live site hosted on netlify [here](https://meerkatapp.netlify.app/).
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceae32a4-08c9-4484-80c3-879d32865d54/deploy-status)](https://app.netlify.com/sites/meerkatapp/deploys)
-If you'd like to see the actual source code you can finde it on github [here](https://github.com/About7Sharks/meerkat).
+If you'd like to see the actual source code you can find it on github [here](https://github.com/About7Sharks/meerkat).
 
 ### Reasons for building
 
