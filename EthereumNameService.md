@@ -8,6 +8,8 @@ summary: Making Ethereum easier to use is the main key for mass adoption of cryp
 tags: ["Blockchain"] 
 ---
 
+# Ethereum Name Service 
+
 ## Ever come across a weird string that looks like this?
 > 0xa485b3e631c02834A73349CFA6c5543bB0796985
 

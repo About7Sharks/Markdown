@@ -9,13 +9,14 @@ tags: ["Node","React","Express","Javascript","Pentest"]
 ---
 
 # Meerkat
-You can find the live site hosted on netlify [here](https://meerkatapp.netlify.app/).
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ceae32a4-08c9-4484-80c3-879d32865d54/deploy-status)](https://app.netlify.com/sites/meerkatapp/deploys)
-If you'd like to see the actual source code you can find it on github [here](https://github.com/About7Sharks/meerkat).
+You can find the live site hosted [here](https://meerkatapp.netlify.app/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ceae32a4-08c9-4484-80c3-879d32865d54/deploy-status)](https://app.netlify.com/sites/meerkatapp/deploys) 
+
+You can view the source code on [github](https://github.com/About7Sharks/meerkat).
 
 ### Reasons for building
 
-These past two weeks i've been working on making the invisible, visible. At any second in modern times countless packets of information are being transmitted all around you and even through you. As someone who is quite interested in the universe information I sought to better understand these mysterious bits of information floating all round. Hence meerkat was created. A set of tools that will help you decode and map network packets. I've also included a deathenticator to kick a device from it's network; for testing purposes; **I am not responsible for how you choose to use this**.
+These past two weeks i've been working on making the invisible; visible. At any second in modern times countless packets of information are being transmitted all around you and even through you. As someone who is quite interested in the information floating around in the universe, I sought to better understand these mysterious bits floating all around. Hence meerkat was created. A set of tools that will help you decode and map network packets. I've also included a deathenticator to kick a device from it's network; for testing purposes; **I am not responsible for how you choose to use this**.
 
 ### Notes from building
 
