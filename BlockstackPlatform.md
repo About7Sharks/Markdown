@@ -5,6 +5,7 @@ author: Zachary Carlin
 location: Tampa FL
 image: https://blog.blockstack.org/wp-content/uploads/2018/11/blockstack_og-86ab19adbc455cc17a097b505e20f44c-1600.png
 summary: Blockstack makes it easy for people to access and utilize the powerful privacy that blockchain technology has to offer utilizing a (PoX) system backed by Bitcoin.
+tags: ["Blockchain"]
 ---
 
 # Blockstack
