@@ -1,0 +1,21 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "--- title: README date: 2020-5-12 author: Zachary Carlin location: Tampa FL image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kinja-img.com%2Fgawker-media%2Fimage%2Fupload%2Fs--I4E1BkV5--%2Fc_scale%2Cfl_progressive%2Cq_80%2Cw_800%2F641522534013585731.jpg summary: This blog is awesome it uses IPFS and the Blockchain tags: [\"Featured\"] ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running test script :)\"",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/About7Sharks/Markdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/About7Sharks/Markdown/issues"
+  },
+  "homepage": "https://github.com/About7Sharks/Markdown#readme"
+}
