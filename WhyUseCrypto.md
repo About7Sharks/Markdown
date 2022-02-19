@@ -3,7 +3,7 @@ title: Why Use Crypto
 date: 2020-7-19
 author: Zachary Carlin
 location: Tampa FL
-image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.manhattandigest.com%2Fwp-content%2Fuploads%2F2017%2F09%2Fbitcoin-perfecthue.jpg&f=1&nofb=1
+image: https://assets.weforum.org/article/image/0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.png
 summary: You've probably heard of bitcoin and cryptocurrencies by now. You may still be asking yourself why care?
 tags: ["Bitcoin", "Crypto", "Tech", "Featured"]
 ---
