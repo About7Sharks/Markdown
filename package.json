@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/About7Sharks/Markdown/issues"
   },
-  "homepage": "https://github.com/About7Sharks/Markdown#readme"
+  "homepage": "https://github.com/About7Sharks/Markdown#readme",
+  "devDependencies": {
+    "husky": "^7.0.0"
+  }
 }
