@@ -1,5 +1,5 @@
 ---
-title: Thoughts 🧠
+title: Thoughts
 date: 2022-2-19
 author: Zachary Carlin
 location: Tampa FL
