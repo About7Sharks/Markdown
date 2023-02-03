@@ -4,7 +4,7 @@ date: 2023-2-02
 author: Zachary Carlin
 location: Tampa FL
 image: https://res.cloudinary.com/sockrates/image/upload/v1675389690/00178-2312959498-mdjrny-v4_style_a_human_male_programmer_working_with_ai_holographic_fun_cool_futuristic_4k_music_synth_glxybr.png
-summary: 
+summary: AI for the people
 tags: ["AI"]
 ---
 ### What this will be

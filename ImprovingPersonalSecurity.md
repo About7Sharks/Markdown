@@ -3,7 +3,7 @@ title: Improving Personal Security
 date: 2020-5-12
 author: Zachary Carlin
 location: Tampa FL
-image: https://cdn.pixabay.com/photo/2019/03/03/14/38/hacker-4031973_960_720.jpg
+image: https://res.cloudinary.com/sockrates/image/upload/v1675395101/00188-2391976073-mdjrny-v4_style_Snapchat_logo_redesigned_as_being_hacked_svg___kqoi9n.png
 summary: So I was lying in bed browsing Instagram when my girlfriend snapchats me. "Funny" I thought, since she was passed out next to me
 tags: ["Security"]
 ---
