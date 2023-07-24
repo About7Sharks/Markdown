@@ -3,7 +3,7 @@ title: Blockstack Platform
 date: 2020-6-29
 author: Zachary Carlin
 location: Tampa FL
-image: git https://public.sockastle.com:433/api/files/4u7atfzk7jmzdxg/jxuu7xyfql8hhhz/old_lego_castle_natural_lighting_shallow_de_IcASQP57B8.png
+image: https://assets-global.website-files.com/618b0aafa4afde65f2fe38fe/62ec3426a2b05a3e11485c8a_Stacks%20logo.svg
 summary: Blockstack makes it easy for people to access and utilize the powerful privacy that blockchain technology has to offer utilizing a (PoX) system backed by Bitcoin.
 tags: ["Blockchain"]
 ---
