@@ -1,5 +1,5 @@
 ---
-title: CCIP (Cross Chain Interoperability Protocol)
+title: CCIP
 date: 2023-7-23
 author: Zachary Carlin
 location: Tampa FL
