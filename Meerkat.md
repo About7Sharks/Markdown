@@ -1,6 +1,6 @@
 ---
 title: Meerkat
-date: 2020-11-15
+date: 2020-5-12
 author: Zachary Carlin
 location: Tampa FL
 image: https://res.cloudinary.com/sockrates/image/upload/v1675394869/00184-4293575233-mdjrny-v4_style_suave_Meerkat_realistic_photograph_far_away_epic_arm_soldier__mz18fp.png
