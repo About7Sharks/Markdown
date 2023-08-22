@@ -8,8 +8,6 @@ summary: You've probably heard of bitcoin and cryptocurrencies by now. You may s
 tags: ["Bitcoin", "Crypto", "Tech", "Featured"]
 ---
 
-# Why Use Crypto?
-
 > Its built-in mechanisms of trust and attribution make it appealing as a way to organize networks where people want to share information
 
 You've probably heard of bitcoin and cryptocurrencies by now. You may still be asking yourself why care? If you don't inherently see the use of this, it's okay, you're privileged and probably have access to a quality financial institutions.

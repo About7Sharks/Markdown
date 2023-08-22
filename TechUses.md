@@ -8,7 +8,6 @@ summary: As a Software Engineer i'm constantly tweaking and playing around with 
 tags: ["Tech", "Personal"]
 ---
 
-# Tech Uses
 As a Software Engineer i'm constantly tweaking and playing around with the technologies I use.
  
 Here is a list of the current things I use almost daily 😘

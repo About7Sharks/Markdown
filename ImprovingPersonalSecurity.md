@@ -8,8 +8,6 @@ summary: So I was lying in bed browsing Instagram when my girlfriend snapchats m
 tags: ["Security"]
 ---
 
-# Improving Personal Security
-
 ## Story Time
 
 So I was lying in bed browsing Instagram when my girlfriend snapchats me.

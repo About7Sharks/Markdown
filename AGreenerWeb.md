@@ -7,7 +7,6 @@ image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.pexels
 summary: A Greener Web
 tags: ["Web Development", "Personal"]
 ---
-# A Greener Web
 ### **Simplicity**
 We should strive to have the simplest solution to the most complex problem. Even if this simple solution is abstracted onto a more complicated platform, we should still be able to make the most of it using the simplest possible interface as well.
 

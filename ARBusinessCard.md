@@ -8,8 +8,6 @@ summary: Viro Augmented reality business card
 tags: ["AR", "Javascript"]
 ---
 
-# AR Business Card
-
 ![GIF](https://imgur.com/jujybPg.gif)
 I recently found [ViroReact](https://viromedia.com/viroreact/)
 

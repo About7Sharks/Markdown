@@ -8,8 +8,6 @@ summary: Blockstack makes it easy for people to access and utilize the powerful 
 tags: ["Blockchain"]
 ---
 
-# Blockstack
-
 ## What it solves?
 > Blockstack addresses blockchain performance problems using a layered approach. The base layer consists of the Stacks blockchain and the Blockstack Naming System (BNS). The blockchain governs ownership of identities in the Blockstack network. Identities can be names such as domain names, usernames, or application names.  
 

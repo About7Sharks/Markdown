@@ -8,8 +8,6 @@ summary: A set of tools that will help you decode and map network packets
 tags: ["Node", "React", "Express", "Javascript", "Security"]
 ---
 
-# Meerkat
-
 You can find the live site hosted [here](https://meerkatapp.netlify.app/).
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ceae32a4-08c9-4484-80c3-879d32865d54/deploy-status)](https://app.netlify.com/sites/meerkatapp/deploys)
 
