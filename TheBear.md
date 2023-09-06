@@ -7,7 +7,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bea
 summary: The bear market in cryptographic economy
 tags: ["Crypto"] 
 ---
-# The Bear
+## The Bear
 
 > "Even if you are not ready for the day, it cannot always be night." - Gwendolyn Brooks
 
