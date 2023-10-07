@@ -1,20 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://unpkg.com/htmx.org@1.9.6"></script>
+  <head>
+    <meta charset="UTF-8" />
     <title>Zac's Thoughts 🧠</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Zac's Thoughts 🧠</h1>
-   <p>
-       This Site is meant to be bland :D
-       <br>
-      <div style="display: inline-flex;flex-direction:column;">
-        Go to <a href="https://zacarlin.com">My Main Site</a> to see my thoughts
-      </div>
-   </p>
-</body>
+    <p>
+      This Site is meant to be bland :D <br /> Go to <a href="https://zacarlin.com">My Main Site</a> to see my thoughts
+    </p>
+    <!-- Container for the file list -->
+    <div>
+      <h2>Thoughts 🧠:</h2>
+      <ul id="fileList"></ul>
+    </div>
+    <script>
+      const fetchFiles = async () =>await (await fetch(`https://api.github.com/repos/About7Sharks/Markdown/git/trees/main?recursive=1`)).json();
+      const createFileList = async () => {
+        const filesData = await fetchFiles();
+        const files = filesData.tree.filter((file) =>
+          file.path.includes(".md")
+        );
+        const fileList = document.getElementById("fileList");
+        files.forEach(({ path, url }) => {
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="https://raw.githubusercontent.com/About7Sharks/Markdown/main/${path}">${path.replace(".md","")}</a>`;
+          const a = document.createElement("a");
+          fileList.appendChild(li);
+        });
+      };
+      createFileList();
+    </script>
+  </body>
 </html>
