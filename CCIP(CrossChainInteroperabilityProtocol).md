@@ -5,7 +5,7 @@ author: Zachary Carlin
 location: Tampa FL
 image: https://docs.chain.link/images/ccip/architecture-intro.png
 summary: Chainlink CCIP is a big-tent kind of protocol, supporting a variety of networks. For the nitty-gritty on supported networks and contract addresses, check out the Supported Networks page on the Chainlink documentation site.
-tags: ["Crypto", "Blockchain", "Chainlink"]
+tags: ["Crypto", "Blockchain", "Chainlink", "Featured"]
 ---
 
 ### Unleashing the Power of Multi-Chain Web3 Ecosystem

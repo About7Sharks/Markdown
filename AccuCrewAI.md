@@ -5,7 +5,7 @@ author: Zachary Carlin
 location: Tampa FL
 image: https://353a23c500dde3b2ad58-c49fe7e7355d384845270f4a7a0a7aa1.ssl.cf2.rackcdn.com/5edd8a5f4d7c220008625fff/screenshot.png
 summary: AccuCrew is an Artificial Intelligence companion designed to help you monitor your brewery.
-tags: ["AI","Javascript"]
+tags: ["AI","Javascript", "Featured"]
 ---
 
 ## What is AccuCrew?
