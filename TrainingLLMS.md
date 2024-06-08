@@ -1,5 +1,5 @@
 ---
-title: LLM's
+title: Training LLMs
 date: 2023-10-7
 author: Zachary Carlin
 location: Tampa FL
