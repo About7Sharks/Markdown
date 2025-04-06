@@ -17,7 +17,7 @@ Ethereum Name Services or Unstoppable domains; making this site **Uncensorable**
 
 - Bodybuilding/Fitness 🏋️‍♂️
 - Coding 💻
-- Exploring Florida's beaches 🏖️
+- Boating and Sailing 🏖️
 - Traveling 🏗️
 - Researching and Tinkering with Web 3 🌐
 - Listening to Podcasts and [Music](https://open.spotify.com/playlist/37i9dQZF1EphhdCcTha7XI?si=cur9rcxGThiBeHUOPbFRhA) 🎧
